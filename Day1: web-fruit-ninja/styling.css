@@ -1,0 +1,31 @@
+*{
+    height: 100%;
+}
+
+html {
+    height: 100%;
+    background: radial-gradient(circle, #fff, #ccc);
+    background: -webkit-radial-gradient(circle, #fff, #ccc);
+    background: -moz-radial-gradient(circle, #fff, #ccc);
+}
+
+#container {
+    height: 40%;
+    width: 50%;
+    background-color: #9DD2EA;
+    margin: 10px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 0px 0px #009de4;
+    position: relative;
+}
+
+#score{
+    background-color: #f1ff92;
+    color: #888e5f;
+    padding: 11px;
+    position: absolute;
+    left: 70%;
+    box-shadow: 0px 4px #9da853;
+    height: 30px;
+}
