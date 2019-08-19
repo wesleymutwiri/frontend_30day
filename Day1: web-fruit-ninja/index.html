@@ -10,17 +10,27 @@
 <body>
     <div id="container">
         <div id="score">
-            <span id="scorevalue">0</span>
+            Score: <span id="scorevalue">0</span>
         </div>
+        <div id="trialsleft"></div>
         <div id="correct"> Correct</div>
         <div id="wrong">Try again</div>
-        <div id="question"></div>
-        <div id="instruction">Click on the correct answer</div>
-        <div id="choices">
-            <div id="box1" class="box"></div>
-            <div id="box2" class="box"></div>
-            <div id="box3" class="box"></div>
+        <div id="fruitscontainer">
+            <img id="fruit1" class="fruit">
         </div>
+        <div id="instruction">Naruto these niggers</div>
+        
+        <div id="startreset">Start game </div>
+        <div id="gameover"></div>
     </div>
+    <!-- <div id="timeremaining">Time Remaining: <span id="timeremainingvalue">60</span>Sec</div> -->
+    <audio id="slicesound">
+        <source src="audio/slicefruit.mp3">
+            <source src="audio/slicefruit.ogg">
+    </audio>
+    <div id="gameover"></div>
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8=" crossorigin="anonymous"></script>
+    <script src="scripts.js"></script>
 </body>
 </html>
