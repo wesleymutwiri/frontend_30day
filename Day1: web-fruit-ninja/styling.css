@@ -1,7 +1,3 @@
-*{
-    height: 100%;
-}
-
 html {
     height: 100%;
     background: radial-gradient(circle, #fff, #ccc);
@@ -10,8 +6,8 @@ html {
 }
 
 #container {
-    height: 40%;
-    width: 50%;
+    height: 600px;
+    width: 750px;
     background-color: #9DD2EA;
     margin: 10px auto;
     padding: 20px;
