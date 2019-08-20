@@ -4,13 +4,13 @@ html {
 }
 
 #container {
-    height: 600px;
-    width: 400px;
-    background-color: #d8f415;
+    height: 500px;
+    width: 570px;
+    background-color: #f3ca6b;
     margin: 100px auto;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 4px 6px 0px 0px #d8f415; 
+    box-shadow: 4px 6px 0px 0px #f3706c; 
     position: relative;
 }
 
