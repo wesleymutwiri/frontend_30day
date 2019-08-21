@@ -8,3 +8,5 @@ A collection of frontend work for the next 30 days. Projects include a web-fruit
 ### Day 2: Maths Multiplication site
 [Day2 challenge: Maths Tutorials site](https://infallible-neumann-ce0e46.netlify.com)
 
+### Day 3: Flexbox template site
+Coming soon
