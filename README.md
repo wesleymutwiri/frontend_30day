@@ -12,4 +12,4 @@ A collection of frontend work for the next 30 days. Projects include a web-fruit
 Coming soon
 
 ### Day 4: CSS Grid Challenge
-[Day4: CSS Grid challenge](https://gracious-engelbart-72238e.netlify.com/))
+[Day4: CSS Grid challenge](https://gracious-engelbart-72238e.netlify.com/)
