@@ -10,14 +10,48 @@
         <link rel="stylesheet" href="index.css">
 </head>
 <body>
+    <div class="container-fluid">
+        <div id="header">
+            stopWatch
+        </div>
+        <div id="lap">
+        <span id="lapminute"></span>:
+        <span id="lapsecond"></span>:
+        <span id="lapcentisecond"></span>
+    </div>
+    <div id="time">
+        <span id="timeminute"></span>:
+        <span id="timesecond"></span>:
+        <span id="timecentisecond"></span>
+    </div>
+    <div id="controlscontainer" class="row">
+        <div class="col-xs-2 col-xs-offset-4">
+            <div id="startbutton" class="control">
+                Start
+            </div>
+                        <div id="stopbutton" class="control">
+                            Stop
+                        </div>
+            <div id="resumebutton" class="control">
+                Resume
+            </div>
+        </div>
+        <div class="col-xs-2">
+            <div id="lapbutton" class="control">Lap</div>
+            <div id="resetbutton" class="control">Reset</div>
+        </div>
+    </div>
+    <div id="laps"></div>
+</div>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
         crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
         integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
         crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
         crossorigin="anonymous"></script>
+        <script src="index.js"></script>
 </body>
 </html>
