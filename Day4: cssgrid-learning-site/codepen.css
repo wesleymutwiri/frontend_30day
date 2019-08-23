@@ -113,3 +113,8 @@ h1, h2, h3, h4, h5, h6 {
     background: black;
     border-top: 1px solid grey;
 }
+a {
+    color: white;
+    background: greenyellow;
+    padding: 10px;
+}
