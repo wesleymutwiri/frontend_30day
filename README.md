@@ -16,3 +16,6 @@ Coming soon
 
 ### Day 5: Stopwatch Webapp
 [Day5: Stopwatch webapplication](https://hardcore-panini-5445b4.netlify.com/) 
+
+### Day 7: Image Gallery and Custom Video Player
+[Day7: Link to live site](https://elastic-pare-12330d.netlify.com)
