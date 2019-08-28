@@ -23,7 +23,7 @@ $(function() {
         img.onload = function(){
             ctx.drawImage(img, 0, 0);
         }
-        img.src = localStorage.getItem()
+        img.src = localStorage.getItem("imagecanvas");
     }
 
     ctx.lineWidth = 3;
