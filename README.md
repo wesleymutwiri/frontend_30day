@@ -19,3 +19,6 @@ Coming soon
 
 ### Day 7: Image Gallery and Custom Video Player
 [Day7: Link to live site](https://elastic-pare-12330d.netlify.com)
+
+### Day 8: Paint-clone site
+[day 8: Paint-clone site](https://festive-kirch-55628f.netlify.com/)
