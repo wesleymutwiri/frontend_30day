@@ -85,3 +85,8 @@ body {
 .button:active {
     top: 4px;
 }
+
+.erasemode {
+    background: red;
+    color: white;
+}
