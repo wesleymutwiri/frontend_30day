@@ -11,6 +11,7 @@
 }
 
 #wahoo:active + .mario-block {
+    transition: all 0.3s ease;
     animation: wahooMario 0.8s ease-in-out 1;
 }
 
