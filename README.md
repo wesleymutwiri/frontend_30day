@@ -18,27 +18,13 @@ Application consists of random questions that allow users to be better able to r
 Learnt about various features of flexbox and how to style and create a responsive page using only flexbox. A demo site was not necessary as the knowledge will be applied throughout the challenge duration.
 
 ### Day 4: CSS Grid Challenge
-Created different projects as per Wesbos CSS grid course and some dynamically from my thoughts
-
-#### Link to Day 4 site
 [Day4: CSS Grid challenge](https://gracious-engelbart-72238e.netlify.com/)
 
 ### Day 5: Stopwatch Webapp
-A very simple stopwatch application to better understand Jquery code
-
-#### Link to Day 5 site
 [Day5: Stopwatch webapplication](https://hardcore-panini-5445b4.netlify.com/) 
 
 ### Day 7: Image Gallery and Custom Video Player
-Created a very simple Image gallery using flex box and a custom video player
-using only Javascript to better understand how to alter HTML using Javascript
-
-#### Link to Day 7 site
 [Day7: Link to live site](https://elastic-pare-12330d.netlify.com)
 
 ### Day 8: Paint-clone site
-A very basic Paint site that stores drawings using localstorage to an individual browser.
-The application uses Jquery UI, canvas and Jquery to mimick and show different paint techniques that one paints
-
-#### Link to Day 8 site
 [day 8: Paint-clone site](https://festive-kirch-55628f.netlify.com/)
